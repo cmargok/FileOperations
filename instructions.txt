@@ -1,0 +1,13 @@
+
+1) download zip code from github https://github.com/cmargok/FileOperations
+
+2) get the file to run operations from it and copy it to ~\JobCalculator\src\main\resources\File\   in .txt extension
+
+3) open command line or CMD and move to cd ~\JobCalculator\target\      
+
+4) in the command line run the .jar in one sentence
+	java -jar JobCalculator-0.0.1-SNAPSHOT.jar
+
+5) follow the simple instruction from the app..
+
+7 done
