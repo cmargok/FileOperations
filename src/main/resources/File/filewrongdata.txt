@@ -1,0 +1,3 @@
+add 2
+multi ply 3
+app-ly 10
